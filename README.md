@@ -5,8 +5,8 @@
 **About Me**
 
 - 2nd Year Undergrad. at University of Manchester, Mphys Phys. with Theo. Phys.
-- Focusing on Computational and Non-linear Physics recently.
-- Love Animes, Novels and Philosiphy.
+- Interest on Computational and Non-linear Physics recently.
+- Love Animes, Novels and Arts.
 
 **Skills**
 
