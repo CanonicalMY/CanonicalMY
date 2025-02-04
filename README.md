@@ -1,3 +1,7 @@
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CanonicalMY&count_private=true&show_icons=true" />
+</a>
+
 💭 **About Me**
 
 - 🏫 2nd Year Undergrad. at University of Manchester, Mphys Phys. with Theo. Phys.
@@ -19,11 +23,11 @@
 
 > 🚀 Open to accept any interesting coopration/internship invitation!
 
--  ⌈ E-mail ⌋：`echo 'c291bHRlckBxcS5jb20K' | base64 -d`
+-  ⌈ E-mail ⌋：``
 -  ⌈ Wechat ⌋：CanonicalMY
 
 _Special Thanks to www.github.com/Soulter/ README format._
 </p>
 <p align="center">
-<img src="https://profile-counter.glitch.me/{Soulter}/count.svg" />
+<img src="https://profile-counter.glitch.me/{CanonicalMY}/count.svg" />
 </p>
