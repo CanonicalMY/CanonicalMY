@@ -1,13 +1,15 @@
 # Ciallo～(∠・ω< )⌒☆ I'm Chen Tingyu!
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CanonicalMY&count_private=true&show_icons=true" />
+</a>
+
 - 2nd Year Undergraduate at University of Manchester
 - Majoring MPhys Physics with Theoretical Physics
 - Love Animes, Novels, and Arts
 - ~Aspiring to be a trivial researcher~
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CanonicalMY&count_private=true&show_icons=true" />
-</a>
+
 
 
 
