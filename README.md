@@ -1,9 +1,9 @@
-# Ciallo ~ I'm Tingyu Chen!
+# Ciallo～(∠・ω< )⌒☆ I'm Chen Tingyu!
 
 - 2nd Year Undergraduate at University of Manchester
 - Majoring MPhys Physics with Theoretical Physics
 - Love Animes, Novels, and Arts
-- ~Dream to be a trivial researcher~
+- ~Aspiring to be a trivial researcher~
 
 ---
 
@@ -34,7 +34,7 @@
 ## 🌟 **What I’m Currently Learning**
 - **Machine Learning & LLM**
 - **Phase Transition & Ising Model**
-- **Quantum Information & Computation**
+- **Quantum Information & Computation** ~(其实学不懂一点(゜-゜)つ)~
 
 ---
 
