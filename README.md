@@ -5,14 +5,11 @@
 - Love Animes, Novels, and Arts
 - ~Aspiring to be a trivial researcher~
 
----
-
-## 📊 **GitHub Stats**
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=CanonicalMY&count_private=true&show_icons=true" />
 </a>
 
----
+
 
 ## 🛠 **Skills & Tech Stack**
 
