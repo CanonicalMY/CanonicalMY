@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![](https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white)
-![](https://img.shields.io/badge/-SPSS-D81E05?style=flat-square&logo=ibm&logoColor=white)
+![](https://img.shields.io/badge/-SPSS-1F70C1?style=flat-square&logo=ibm&logoColor=white)
 
 ---
 
