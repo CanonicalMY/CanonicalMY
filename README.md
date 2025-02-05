@@ -5,10 +5,13 @@
 </a>
 
 - 2nd Year Undergraduate at University of Manchester
-- Majoring MPhys Physics with Theoretical Physics
-- Love Animes, Novels, and Arts
-- ~Aspiring to be a trivial researcher~  
   
+- Majoring MPhys Physics with Theoretical Physics
+  
+- Love Animes, Novels, and Arts
+  
+- ~Aspiring to be a trivial researcher~  
+
 
 
 ## 🛠 **Skills & Tech Stack**
