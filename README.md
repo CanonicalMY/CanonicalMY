@@ -3,7 +3,7 @@
 
 - 2nd Year Undergraduate at University of Manchester
   
-- Majoring MPhys Physics with Theoretical Physics
+- Majoring in MPhys Physics with Theo. Phys.
   
 - Love Animes, Novels, and Arts
   
