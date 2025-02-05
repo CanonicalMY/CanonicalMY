@@ -33,10 +33,9 @@
 ---
 
 ## 💬 **Contact Me**
-- **E-mail**: `[你的邮箱]`
-- **Blog**: `[CanonicalMY.sapce]`
-- **WeChat**: CanonicalMY
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/)  
+- **Blog**: [CanonicalMY.sapce](https://CanonicalMY.sapce)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/tingyu-chen-42114b332/)
+- **Telegram**：[CanonicalMY](https://t.me/canonicalmy)
 
 ---
 
