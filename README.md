@@ -5,8 +5,6 @@
   
 - Majoring in MPhys Physics with Theo. Phys.
   
-- Love Anime, Novels, and Art
-  
 - ~Aspiring to be a trivial researcher(好高骛远学艺不精数理基础薄弱)~  
 
 
