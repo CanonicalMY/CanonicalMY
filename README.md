@@ -7,7 +7,7 @@
   
 - Love Anime, Novels, and Art
   
-- ~Aspiring to be a trivial researcher~  
+- ~Aspiring to be a trivial researcher(好高骛远学艺不精数理基础薄弱)~  
 
 
 
@@ -28,7 +28,7 @@
 ## 🌟 **What I’m Currently Learning**
 - **Machine Learning & LLM**
 - **Phase Transition & Ising Model**
-- **Quantum Information & Computation** ~(其实完全学不懂(゜-゜)つ)~
+- **Topological Insulator** 
 
 ---
 
