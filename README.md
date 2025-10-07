@@ -1,7 +1,7 @@
 # Ciallo～(∠・ω< )⌒☆ I'm Chen Tingyu!
 
 
-- 2nd Year Undergraduate at University of Manchester
+- 3rd Year Undergraduate at University of Manchester
   
 - Majoring in MPhys Physics with Theo. Phys.
   
@@ -24,14 +24,14 @@
 ---
 
 ## 🌟 **What I’m Currently Learning**
-- **Machine Learning & LLM**
 - **Phase Transition & Ising Model**
-- **Topological Insulator** 
+- **Non-abelian Topological Insulator**
+- **Personal Web development** 
 
 ---
 
 ## 💬 **Contact Me**
-- **Blog**: [CanonicalMY.sapce](https://CanonicalMY.sapce)
+- **Blog**: [CanonicalTY.site](https://CanonicalTY.site)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/tingyu-chen-42114b332/)
 - **Telegram**：[CanonicalMY](https://t.me/canonicalmy)
 
